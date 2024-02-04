@@ -1,0 +1,22 @@
+
+
+```{r}
+library(tidyverse)
+library(dplyr)
+data <- read.csv('dataset.csv')
+data %>% 
+  count(ethnicity)
+data %>%
+  count(gender)
+data %>%
+  count(icu_admit_source)
+data %>%
+  count(icu_stay_type)
+data %>%
+  count(icu_type)
+data %>%
+  count(apache_3j_bodysystem)
+data %>%
+  count(apache_2_bodysystem)
+```
+
