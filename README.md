@@ -37,9 +37,6 @@ The enhanced APACHE score prediction model demonstrated a significant improvemen
 ## Contributing
 We welcome contributions to this project. Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Acknowledgments
 Aaron Guo and Jiawei Zhu for their significant contributions to the project.
 MIT's GOSSIS initiative for providing the dataset.
